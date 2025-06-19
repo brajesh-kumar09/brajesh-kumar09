@@ -1,5 +1,5 @@
 - 👀 I’m interested in software development, problem-solving, and creating efficient algorithms.
-- 🌱 I’m currently learning Data Structures and Algorithms (DSA) using C++, Web development, and Python.
+- 🌱 I’m currently React Full-Stack Developer.
 - 💞️ I’m looking to collaborate on open-source projects or any software development projects that involve DSA or full-stack development.
 - 📫 How to reach me: Email: 'qbrajesh09@gmail.com'.
 - 😄 Pronouns: He/Him.
